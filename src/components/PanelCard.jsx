@@ -26,7 +26,7 @@ const PanelCard = ({ panel }) => {
       <h3 className="font-exo font-extrabold text-[1.5rem] text-ink leading-tight mb-2">
         {panel.title}
       </h3>
-      <p className="text-[1rem] text-ink-muted mb-5 leading-snug">
+      <p className="text-[1.4rem] text-ink-muted mb-5 leading-snug">
         Moderator: {panel.moderator}
       </p>
 

@@ -16,7 +16,7 @@ const panels = [
     moderator:
       "Dime Kalapchev — FinqUp",
     speakers: [
-      "Vesna Janeva - Minister of Education, N.Macedonia",
+      "Vesna Janevska - Minister of Education, N.Macedonia",
       "IT Chamber of Commerce",
       "KOTRA — South Korea",
       "CEO Of Arib - Saudi Arabia"
@@ -35,7 +35,7 @@ const panels = [
   },
   {
     id: "4 - 1PM",
-    title: "Agrotech 5.0: Bridgin Southeast Europe and Global Trends",
+    title: "Agrotech 5.0: Bridging Southeast Europe and Global Trends",
     moderator: "Prof. Oliver Iliev",
     speakers: [
       "Maximilian Foedinger - VIAAS, Vice President",
@@ -49,7 +49,7 @@ const panels = [
     title: "Startups & Investment",
     moderator: "Igor Madzov · Focus: Innovation ecosystem & scaling",
     speakers: [
-      "INNOVA Agency Director (invited)",
+      "INNOVA Agency Director",
       "VC Investors & International Experts",
       "Founders and Business Angels",
     ],

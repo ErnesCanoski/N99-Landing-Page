@@ -66,7 +66,8 @@ const HeroSection = ({ onRegister }) => {
         <div className="flex flex-col items-center gap-3">
           <h1 className="animate-fadeUp-1 font-exo font-black tracking-tight leading-none text-[clamp(1.9rem,5.5vw,4.2rem)]">
             <span className= "block text-ink mt-1">
-              N99 AI Deep Tech Summit Skopje
+              N99 <br />
+              AI Deep Tech Summit Skopje
             </span>
             <span className="block gradient-text">
               Create at Home. <br />
