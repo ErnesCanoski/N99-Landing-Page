@@ -21,8 +21,8 @@ const App = () => {
     <>
       <Navbar onRegister={openModal} />
       <HeroSection onRegister={openModal} />
-      <OpeningSection />
       <PanelsSection />
+      <OpeningSection />
       <HighlightSection />
       <LocationSection />
       <CTASection onRegister={openModal} />
