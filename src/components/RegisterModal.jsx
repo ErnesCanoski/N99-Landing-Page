@@ -39,7 +39,7 @@ const RegisterModal = ({ onClose }) => {
   try {
     // 📩 Send to YOU (admin)
     await emailjs.send(
-      "service_mp245ou",
+      "service_xh31wec",
       "template_nspwp79",
       {
         first_name: form.firstName,
@@ -51,7 +51,7 @@ const RegisterModal = ({ onClose }) => {
 
     // 📩 Send to USER
     await emailjs.send(
-      "service_mp245ou",
+      "service_xh31wec",
       "template_caorbni",
       {
         first_name: form.firstName,
