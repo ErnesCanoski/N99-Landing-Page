@@ -28,9 +28,9 @@ const panels = [
     moderator: "PhD Kire Jakimoski",
     speakers: [
       // "Vlado Misajlovski — Minister of Defense, N. Macedonia",
-      "Adam Benet, CEO — Red Pirhana, Australia",
+      "Adam Benet, CEO — Red Piranha, Australia",
       "Jens Pauli Rasmunsen — Norliga, Danmark",
-      "Fawaz — Saudi Arabia",
+      "Fawaz — ARIB, Saudi Arabia",
     ],
   },
   {
@@ -38,7 +38,7 @@ const panels = [
     title: "Agrotech 5.0: Bridging Southeast Europe and Global Trends",
     moderator: "Prof. Oliver Iliev",
     speakers: [
-      "Maximilian Foedinger - VIAAS, Vice President",
+      "Cvetan Tripunovski - Minister of Agriculture N.Macedonia",
       "J.S. Park, CEO — SUNGHO, South Korea",
       "Can Yurdakul, CEO — Ant Systems, Türkiye",
       "Wageningen University, Holland",
@@ -49,6 +49,7 @@ const panels = [
     title: "Startups & Investment",
     moderator: "Igor Madzov · Focus: Innovation ecosystem & scaling",
     speakers: [
+      "Maximilian Foedinger - VIAAS, Vice President, Austria",
       "INNOVA Agency Director",
       "VC Investors & International Experts",
       "Founders and Business Angels",
