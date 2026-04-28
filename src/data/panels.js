@@ -7,19 +7,19 @@ const panels = [
       "Stefan Andonovski - Minister of Digital Transformation, N.Macedonia",
       "Kate Upevce Potter, Google AI Marketing & Sales",
       "Ljupco Georgiev, Regional Manager — Microsoft",
-      "Aldo Cingolani, Bertone Design Group - Italy",
+      "Aldo Cingolani, Bertone Design Group - Italy", // maybe he will not come
     ],
   },
   {
     id: "2 - 11AM",
     title: "Digital Transformation, Education & Future Economy",
     moderator:
-      "Dime Kalapchev — FinqUp",
+      "Dime Galapchev — FinqUp",
     speakers: [
       "Vesna Janevska - Minister of Education, N.Macedonia",
       "IT Chamber of Commerce",
       "KOTRA — South Korea",
-      "CEO Of Arib - Saudi Arabia"
+      "ARIB - Saudi Arabia"
     ],
   },
   {
@@ -50,7 +50,7 @@ const panels = [
     moderator: "Igor Madzov · Focus: Innovation ecosystem & scaling",
     speakers: [
       "Maximilian Foedinger - VIAAS, Vice President, Austria",
-      "INNOVA Agency Director",
+      "Daniela Dimovska - INNOVA",
       "VC Investors & International Experts",
       "Founders and Business Angels",
     ],
