@@ -109,7 +109,7 @@ const RegisterModal = ({ onClose }) => {
                   <span className="text-brand-cyan">{form.email}</span>.
                   <br />
                   <span className="text-ink-muted text-sm">
-                    See you in Skopje on May 8th, 2026 🎉
+                    See you in Skopje on May 9th, 2026 🎉
                   </span>
                 </p>
               </div>
@@ -130,7 +130,7 @@ const RegisterModal = ({ onClose }) => {
                   Register For Free
                 </h2>
                 <p className="text-ink-muted text-sm mt-1.5">
-                  Opening night · May 8th, 2026 · 6:30 PM · Free admission
+                  Opening night · May 9th, 2026 · 6:30 PM · Free admission
                 </p>
               </div>
 

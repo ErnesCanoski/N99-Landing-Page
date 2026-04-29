@@ -17,7 +17,7 @@ const panels = [
       "Dime Galapchev — FinqUp",
     speakers: [
       "Vesna Janevska - Minister of Education, N.Macedonia",
-      "IT Chamber of Commerce",
+      "IT Chamber of Commerce", // ??????
       "KOTRA — South Korea",
       "ARIB - Saudi Arabia"
     ],
