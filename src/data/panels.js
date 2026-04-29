@@ -30,7 +30,9 @@ const panels = [
       // "Vlado Misajlovski — Minister of Defense, N. Macedonia",
       "Adam Benet, CEO — Red Piranha, Australia",
       "Jens Pauli Rasmunsen — Norliga, Danmark",
+      "Dr. Metodi Hadji Janev - Principal Advisor for Digital Resilience, CRDF Global",
       "Fawaz — ARIB, Saudi Arabia",
+      "Filip Simeonov -CEO & Cyber Security expert vo Tessa Sec "
     ],
   },
   {
@@ -50,9 +52,10 @@ const panels = [
     moderator: "Igor Madzov · Focus: Innovation ecosystem & scaling",
     speakers: [
       "Maximilian Foedinger - VIAAS, Vice President, Austria",
-      "Daniela Dimovska - INNOVA",
-      "VC Investors & International Experts",
-      "Founders and Business Angels",
+      "Daniela Dimovska - Managing Director, Agency for Innovation, Scientific and Technological Development and Entrepreneurship – INOVA",
+      "Gjorgi Rafajlovski - Managing Partner Zephyr Angels, Intellectual Property expert",
+      "Gideon Marks - Serial Entrepreneur, Investor, and Google for Startups Anchor Mentor USA",
+      "Elena Hadzi Pecova - Manager Ceed Business Angels/ Adria Angels, Little Big Founders",
     ],
   },
 ];
