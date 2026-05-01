@@ -31,7 +31,6 @@ const panels = [
       "Adam Benet, CEO — Red Piranha, Australia",
       "Jens Pauli Rasmunsen — Norliga, Danmark",
       "Dr. Metodi Hadji Janev — Principal Advisor for Digital Resilience, CRDF Global",
-      "Fawaz — ARIB, Saudi Arabia",
       "Filip Simeonov — CEO & Cyber Security expert vo Tessa Sec "
     ],
   },
