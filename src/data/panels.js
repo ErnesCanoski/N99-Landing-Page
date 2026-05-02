@@ -18,7 +18,7 @@ const panels = [
     speakers: [
       "Vesna Janevska — Minister of Education, N.Macedonia",
       "MASIT — IT Chamber of Commerce", // ??????
-      "KOTRA — South Korea",
+      "ARIB — Saudi Arabia",
       "Maximilian Foedinger — VIAAS, Vice President, Austria"
     ],
   },
@@ -28,7 +28,7 @@ const panels = [
     moderator: "PhD Kire Jakimoski",
     speakers: [
       // "Vlado Misajlovski — Minister of Defense, N. Macedonia",
-      "Adam Benet, CEO — Red Piranha, Australia",
+      "Zayd Bhyat, CEO — Red Piranha, Australia",
       "Jens Pauli Rasmunsen — Norliga, Danmark",
       "Dr. Metodi Hadji Janev — Principal Advisor for Digital Resilience, CRDF Global",
       "Filip Simeonov — CEO & Cyber Security expert vo Tessa Sec "
