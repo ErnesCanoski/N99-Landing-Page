@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useScrollReveal } from "./hooks/useScrollReveal";
-import Navbar from "./components/Navbar";
+// import Navbar from "./components/Navbar";
 import HeroSection from "./components/HeroSection";
 import OpeningSection from "./components/OpeningSection";
 import PanelsSection from "./components/PanelsSection";
@@ -19,7 +19,7 @@ const App = () => {
 
   return (
     <>
-      <Navbar onRegister={openModal} />
+      {/* <Navbar onRegister={openModal} /> */}
       <HeroSection onRegister={openModal} />
       <PanelsSection />
       <OpeningSection />
