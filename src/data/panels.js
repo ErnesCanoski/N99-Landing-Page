@@ -13,18 +13,6 @@ const panels = [
   },
   {
     id: "2 — 11AM",  //PANEL 2
-    title: "Digital Transformation, Education & Future Economy",
-    moderator:
-      "Dime Galapchev — FinqUp",
-    speakers: [
-      "Vesna Janevska — Minister of Education, N.Macedonia",
-      "Jordan Dimitrovski - Chairman of MASSIT — IT Chamber of Commerce", 
-      "Maximilian Foedinger — VIAAS, Vice President, Austria",
-      "Monika Rizovska Tanevska - Global Director of Women in Tech"
-    ],
-  },
-  {
-    id: "3 — 12PM",  //PANEL 3
     title: "National Resilience & Cyber Defense",
     moderator: "PhD Kire Jakimoski",
     speakers: [
@@ -33,7 +21,18 @@ const panels = [
       "Jens Pauli Rasmunsen — Norliga, Danmark",
       "Dr. Metodi Hadji Janev — Principal Advisor for Digital Resilience, CRDF Global",
       "Filip Simeonov — CEO & Cyber Security expert vo Tessa Sec",
-      "ARIB — Saudi Arabia"
+    ],
+  },
+    {
+    id: "3 — 12PM ",  //PANEL 3
+    title: "Digital Transformation, Education & Future Economy",
+    moderator:
+      "Dime Galapchev — FinqUp",
+    speakers: [
+      "Vesna Janevska — Minister of Education, N.Macedonia",
+      "Jordan Dimitrovski - President of MASIT — IT Chamber of Commerce", 
+      "Maximilian Foedinger — VIAAS, Vice President, Austria",
+      "Monika Rizovska Tanevska - Global Director of Women in Tech"
     ],
   },
   {
@@ -41,7 +40,7 @@ const panels = [
     title: "Startups & Investment",
     moderator: "Igor Madzov — Innovation ecosystem & scaling",
     speakers: [
-      "INOVA – Agency for Innovation, Scientific and Technological Development and Entrepreneurship ",
+      "Ivana Stankovic - Country Program Officer, Swiss Enterprenuership Program",
       "Gjorgi Rafajlovski — Managing Partner Zephyr Angels, Intellectual Property expert",
       "Gideon Marks — Serial Entrepreneur, Investor, and Google for Startups Anchor Mentor USA",
       "Elena Hadzi Pecova — Manager Ceed Business Angels/ Adria Angels, Little Big Founders",
@@ -55,7 +54,6 @@ const panels = [
       "Cvetan Tripunovski — Minister of Agriculture N.Macedonia", //???
       "J.S. Park, CEO — SUNGHO, South Korea",
       "Can Yurdakul, CEO — Ant Systems, Türkiye",
-      "Wageningen University, Holland",
     ],
   },
   
