@@ -8,7 +8,7 @@ const panels = [
       "Kate Upevce Potter — Google AI Marketing & Sales",
       "Ljupco Georgiev, Regional Manager — Microsoft",
       "Dr. Miodrag Cekikj - PhD in Applied AI & Founder of Adopt Intelligence",
-      "Anachkova Maja — Institute of Mechanics, Faculty of Mechanical Engineering University, Ss. Cyril and Methodius in Skopje, N.Macedonia", 
+      "Dr. Maja Anachkova, Assistant Professor at the Institute of Mechanics and Mechatronics, Faculty of Mechanical engineering-Skopje, Ss. Cyril and Methodius University in Skopje, N. Macedonia", 
     ],
   },
   {
