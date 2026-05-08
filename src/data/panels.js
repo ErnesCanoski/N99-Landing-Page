@@ -2,13 +2,13 @@ const panels = [
   {
     id: "1 — 10AM",    //PANEL 1
     title: "Physical AI & Future Industry",
-    moderator: "PhD Sefidanis Anis, CEO N99 Tech Park",
+    moderator: "Moderator: Prof. Anis Sefidanis PhD, CEO N99 Tech Park",
     speakers: [
       "Stefan Andonovski — Minister of Digital Transformation, N.Macedonia",
       "Kate Upevce Potter — Google AI Marketing & Sales",
       "Ljupco Georgiev, Regional Manager — Microsoft",
       "Dr. Miodrag Cekikj - PhD in Applied AI & Founder of Adopt Intelligence",
-      "Anackova Maja — Assistant at the Institute of Mechanics, Faculty of Mechanical Engineering—Skopje", 
+      "Anachkova Maja — Institute of Mechanics, Faculty of Mechanical Engineering University, Ss. Cyril and Methodius in Skopje, N.Macedonia", 
     ],
   },
   {
